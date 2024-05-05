@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game in Python
+# Tic-Tac-Too Game in Python
 
 Welcome to our Tic-Tac-Toe game implemented in Python! This classic game is perfect for both beginners learning Python and experienced developers looking for a fun project.
 
@@ -12,6 +12,6 @@ Welcome to our Tic-Tac-Toe game implemented in Python! This classic game is perf
 To get started with the game, simply clone this repository to your local machine and run the `tictactoe.py` file using Python.
 
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
-cd tic-tac-toe
-python tictactoe.py
+git clone https://github.com/yourusername/tic-tac-too.git
+cd tic-tac-too
+python tictactoo.py
